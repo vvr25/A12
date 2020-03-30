@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>San Joaquin Valley Town Hall</title>
@@ -55,4 +57,4 @@
 		<p>&copy; 2015, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
 	</footer>
 </body>
-
+</html>
