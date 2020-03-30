@@ -26,17 +26,17 @@
 			I think of it as the gift of knowledge...and that is priceless.&rdquo;</blockquote>
 			
 <h1>Speaker of the Month</h1>
-			<article>
-				<h2>Fossil Threads in the Web of Life</h2>
-				<img src="images/sampson_dinosaur.jpg" alt="Scott Sampson with dinosaur">
-				<h3>February<br>
-				Scott Sampson</h3>
-				<p>What's 75 million years old and brand spanking new? A teenage Utahceratops! 
-				Come to the Saroyan, armed with your best dinosaur roar, when Scott Sampson, Research 
-				Curator at the Utah Museum of Natural History, steps to the podium. Sampson's research 
-				has focused on the ecology and evolution of late Cretaceous dinosaurs and he has conducted 
-				fieldwork in a number of countries in Africa.</p>
-				<p><a href="speakers/c6_sampson.html">Read more.</a>&nbsp;<b>Or meet us there!</b></p>
+		<article>
+			<h2>Fossil Threads in the Web of Life</h2>
+			<img src="images/sampson_dinosaur.jpg" alt="Scott Sampson with dinosaur">
+			<h3>February<br>
+			Scott Sampson</h3>
+			<p>What's 75 million years old and brand spanking new? A teenage Utahceratops! 
+			Come to the Saroyan, armed with your best dinosaur roar, when Scott Sampson, Research 
+			Curator at the Utah Museum of Natural History, steps to the podium. Sampson's research 
+			has focused on the ecology and evolution of late Cretaceous dinosaurs and he has conducted 
+			fieldwork in a number of countries in Africa.</p>
+			<p><a href="speakers/c6_sampson.html">Read more.</a>&nbsp;<b>Or meet us there!</b></p>
 			</article>
 			
 <h2>Our Ticket Packages</h2>
