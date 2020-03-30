@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
 	<meta charset="utf-8">
 	<title>San Joaquin Valley Town Hall</title>
@@ -18,20 +15,15 @@
 	<main>
 		<section>
 			<h2>Our Mission</h2>
-			<p>San Joaquin Valley Town Hall is a non-profit organization that is run by an 
-			   all-volunteer board of directors. Our mission is to bring nationally and 
-			   internationally renowned, thought-provoking speakers who inform, educate, 
-			   and entertain our audience! As one or our members told us:</p>
-			<blockquote>&ldquo;Each year I give a ticket package to each of our family members. 
-			I think of it as the gift of knowledge...and that is priceless.&rdquo;</blockquote>
+			<p>San Joaquin Valley Town Hall is a non-profit organization that is run by an all-volunteer board of directors. Our mission is to bring nationally and internationally renowned, thought-provoking speakers who inform, educate, and entertain our audience! As one or our members told us:</p> <blockquote>&ldquo;Each year I give a ticket package to each of our family members.I think of it as the gift of knowledge...and that is priceless.&rdquo;</blockquote>
 	
 <h1>Speaker of the Month</h1>
 		<article>
-				<h2>Fossil Threads in the Web of Life</h2>
-				<img src="images/sampson_dinosaur.jpg" alt="Scott Sampson with dinosaur">
-				<h3>February<br>
-				Scott Sampson</h3>
-				<p>What's 75 million years old and brand spanking new? A teenage Utahceratops! 
+			<h2>Fossil Threads in the Web of Life</h2>
+			<img src="images/sampson_dinosaur.jpg" alt="Scott Sampson with dinosaur">
+			<h3>February<br>
+			Scott Sampson</h3>
+			<p>What's 75 million years old and brand spanking new? A teenage Utahceratops! 
 				Come to the Saroyan, armed with your best dinosaur roar, when Scott Sampson, Research 
 				Curator at the Utah Museum of Natural History, steps to the podium. Sampson's research 
 				has focused on the ecology and evolution of late Cretaceous dinosaurs and he has conducted 
@@ -63,4 +55,4 @@
 		<p>&copy; 2015, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
 	</footer>
 </body>
-</html>
+
